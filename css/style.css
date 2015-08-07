@@ -1,0 +1,50 @@
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+#image-pr  {
+  background-image:url('http://goo.gl/YgU2SR');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#image-pr .container {
+  position: relative;
+  top:100px;
+}
+
+#image-pr h1 {
+  color: gray;
+  font-size: 70px;  
+  font-family: 'Verdana';
+  font-weight: bold;
+  background-color: white;
+  width: 46%;
+}
+
+#image-pr p {
+  font-size: 20px;
+  color: #fff;
+  background-color: gray;
+  width: 46%;
+}
+
+#hdr-right{
+  float: right;
+}
+
+#header h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Verdana;
+  
+}
